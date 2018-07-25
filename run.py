@@ -8,7 +8,6 @@ Author: Xin Zhang
 
 import json
 import requests
-import pprint
 import datetime
 import time
 from em_news_live.utils.regex_tool import handle_content_list
